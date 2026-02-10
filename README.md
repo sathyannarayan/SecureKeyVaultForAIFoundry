@@ -1,4 +1,4 @@
-# AI Foundry with Azure Key Vault
+# AI Foundry with Azure Key Vault: Secure Text Analyzer
 
 A C# sample that calls **Azure AI Language Services** (Text Analytics) using credentials stored securely in **Azure Key Vault**. This approach keeps API keys and endpoints out of source code and config files, improving security and compliance.
 
